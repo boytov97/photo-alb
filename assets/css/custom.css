@@ -1,0 +1,91 @@
+
+.nav-link{
+    color:white;
+}
+.mycontent{
+    padding: 20px;
+}
+.sort-setting{
+    max-width: 600px;
+}
+.create-album-link{
+    border-right: 1px solid #ccc;
+}
+.title-form{
+
+    margin-bottom:10px;
+    color:white;
+    padding: 10px;
+    background: #0769AD;
+    max-width: 600px;
+}
+
+
+#btn_create_album{
+    margin: 20px;
+}
+/*adin/etname*/
+.img-setname{
+    width: 250px;
+    height: 170px;  
+    margin: 30px;
+}
+/*album/index*/
+.img-albums{
+    width: 250px;
+    height: 170px;  
+}
+
+/*adin/etname*/
+.img-setname img{
+    width: inherit;
+    height: inherit;
+    border-radius: 3px;
+    border:1px solid black;
+}
+/*album/index*/
+.img-albums img{
+    width: inherit;
+    height: inherit;
+    border-radius: 3px;
+    border:1px solid black;
+}
+/*adin/etname*/
+.img-setname input{
+    width: inherit;
+    font-size: 14px;
+    padding-left: 10px;
+}
+
+
+form{
+    margin-bottom: 30px;
+}
+
+.album-card{
+    padding: 0px;
+    margin: 10px;
+    background: #ccc;
+}
+.album-view{
+    max-width: 1000px;
+}
+.every-image{
+    width: 180px;
+    height: 150px;
+    margin:20px;
+}
+.every-image img{
+    width: inherit;
+    height: inherit;
+    margin-bottom: 20px;
+    border-radius: 3px;
+    border:1px solid black;
+    paddig:20px;
+}
+
+.from-enter{
+    font-size: 14px;
+    padding: 20px;
+    background: #eee;
+}
